@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.ph-consulting.website/sitemap/0.9">
+   <url>
+      <loc>https://www.ph-consulting.website/</loc>
+      <priority>1.00</priority>
+   </url>
+   <url>
+      <loc>https://www.ph-consulting.website/about</loc>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://www.ph-consulting.website/contact</loc>
+      <priority>0.70</priority>
+   </url>
+   <url>
+      <loc>https://www.ph-consulting.website/services</loc>
+      <priority>0.60</priority>
+   </url>
+   <url>
+      <loc>https://www.ph-consulting.website/team</loc>
+      <priority>0.50</priority>
+   </url>
+   <url>
+      <loc>https://www.ph-consulting.website/projects</loc>
+      <priority>0.40</priority>
+   </url>
+   <url>
+      <loc>https://www.ph-consulting.website/partners</loc>
+      <priority>0.30</priority>
+   </url>
+</urlset>
